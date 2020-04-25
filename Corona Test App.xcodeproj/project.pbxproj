@@ -7,16 +7,29 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		96B6FFAD242172DF00B31E60 /* PrecoutingVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96B6FFAC242172DF00B31E60 /* PrecoutingVC.swift */; };
+		96B6FFAF24218DCF00B31E60 /* AdviceModal.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96B6FFAE24218DCF00B31E60 /* AdviceModal.swift */; };
+		96B6FFB224219A3800B31E60 /* WebKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 96B6FFB124219A3800B31E60 /* WebKit.framework */; };
+		96B6FFB42423619000B31E60 /* PersistenceVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96B6FFB32423619000B31E60 /* PersistenceVC.swift */; };
 		96B8DBDE2420B62200AB9919 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96B8DBDD2420B62200AB9919 /* AppDelegate.swift */; };
 		96B8DBE02420B62200AB9919 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96B8DBDF2420B62200AB9919 /* SceneDelegate.swift */; };
 		96B8DBE22420B62200AB9919 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96B8DBE12420B62200AB9919 /* ViewController.swift */; };
 		96B8DBE52420B62200AB9919 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 96B8DBE32420B62200AB9919 /* Main.storyboard */; };
 		96B8DBE72420B62400AB9919 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 96B8DBE62420B62400AB9919 /* Assets.xcassets */; };
 		96B8DBEA2420B62400AB9919 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 96B8DBE82420B62400AB9919 /* LaunchScreen.storyboard */; };
+		96B8DBF52420B7C900AB9919 /* Question.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96B8DBF42420B7C900AB9919 /* Question.swift */; };
+		96B8DBF72420B8B900AB9919 /* TestBrain.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96B8DBF62420B8B900AB9919 /* TestBrain.swift */; };
+		96B8DBF92420D07000AB9919 /* WorldSituationVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96B8DBF82420D07000AB9919 /* WorldSituationVC.swift */; };
+		96B8DBFB2420D72400AB9919 /* TestVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96B8DBFA2420D72400AB9919 /* TestVC.swift */; };
+		96B8DBFD242102F800AB9919 /* TestResultVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96B8DBFC242102F800AB9919 /* TestResultVC.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		96B8DBDA2420B62200AB9919 /* Corona Test App.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Corona Test App.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		96B6FFAC242172DF00B31E60 /* PrecoutingVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PrecoutingVC.swift; sourceTree = "<group>"; };
+		96B6FFAE24218DCF00B31E60 /* AdviceModal.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AdviceModal.swift; sourceTree = "<group>"; };
+		96B6FFB124219A3800B31E60 /* WebKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = WebKit.framework; path = System/Library/Frameworks/WebKit.framework; sourceTree = SDKROOT; };
+		96B6FFB32423619000B31E60 /* PersistenceVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PersistenceVC.swift; sourceTree = "<group>"; };
+		96B8DBDA2420B62200AB9919 /* Viruses Info and Prevent.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Viruses Info and Prevent.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		96B8DBDD2420B62200AB9919 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		96B8DBDF2420B62200AB9919 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		96B8DBE12420B62200AB9919 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -24,6 +37,11 @@
 		96B8DBE62420B62400AB9919 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		96B8DBE92420B62400AB9919 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		96B8DBEB2420B62400AB9919 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		96B8DBF42420B7C900AB9919 /* Question.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Question.swift; sourceTree = "<group>"; };
+		96B8DBF62420B8B900AB9919 /* TestBrain.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestBrain.swift; sourceTree = "<group>"; };
+		96B8DBF82420D07000AB9919 /* WorldSituationVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = WorldSituationVC.swift; path = "Corona Test App/View/WorldSituationVC.swift"; sourceTree = SOURCE_ROOT; };
+		96B8DBFA2420D72400AB9919 /* TestVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestVC.swift; sourceTree = "<group>"; };
+		96B8DBFC242102F800AB9919 /* TestResultVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestResultVC.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -31,24 +49,34 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				96B6FFB224219A3800B31E60 /* WebKit.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		96B6FFB024219A3800B31E60 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				96B6FFB124219A3800B31E60 /* WebKit.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
 		96B8DBD12420B62200AB9919 = {
 			isa = PBXGroup;
 			children = (
 				96B8DBDC2420B62200AB9919 /* Corona Test App */,
 				96B8DBDB2420B62200AB9919 /* Products */,
+				96B6FFB024219A3800B31E60 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
 		96B8DBDB2420B62200AB9919 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				96B8DBDA2420B62200AB9919 /* Corona Test App.app */,
+				96B8DBDA2420B62200AB9919 /* Viruses Info and Prevent.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -58,13 +86,45 @@
 			children = (
 				96B8DBDD2420B62200AB9919 /* AppDelegate.swift */,
 				96B8DBDF2420B62200AB9919 /* SceneDelegate.swift */,
-				96B8DBE12420B62200AB9919 /* ViewController.swift */,
-				96B8DBE32420B62200AB9919 /* Main.storyboard */,
+				96B8DBF22420B74A00AB9919 /* View */,
+				96B8DBF32420B75100AB9919 /* Controller */,
+				96B8DBF12420B72C00AB9919 /* Model */,
 				96B8DBE62420B62400AB9919 /* Assets.xcassets */,
-				96B8DBE82420B62400AB9919 /* LaunchScreen.storyboard */,
 				96B8DBEB2420B62400AB9919 /* Info.plist */,
 			);
 			path = "Corona Test App";
+			sourceTree = "<group>";
+		};
+		96B8DBF12420B72C00AB9919 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				96B8DBF42420B7C900AB9919 /* Question.swift */,
+				96B8DBF62420B8B900AB9919 /* TestBrain.swift */,
+				96B6FFAE24218DCF00B31E60 /* AdviceModal.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		96B8DBF22420B74A00AB9919 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				96B8DBE82420B62400AB9919 /* LaunchScreen.storyboard */,
+				96B8DBE32420B62200AB9919 /* Main.storyboard */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		96B8DBF32420B75100AB9919 /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+				96B8DBF82420D07000AB9919 /* WorldSituationVC.swift */,
+				96B8DBE12420B62200AB9919 /* ViewController.swift */,
+				96B8DBFA2420D72400AB9919 /* TestVC.swift */,
+				96B8DBFC242102F800AB9919 /* TestResultVC.swift */,
+				96B6FFAC242172DF00B31E60 /* PrecoutingVC.swift */,
+				96B6FFB32423619000B31E60 /* PersistenceVC.swift */,
+			);
+			path = Controller;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -84,7 +144,7 @@
 			);
 			name = "Corona Test App";
 			productName = "Corona Test App";
-			productReference = 96B8DBDA2420B62200AB9919 /* Corona Test App.app */;
+			productReference = 96B8DBDA2420B62200AB9919 /* Viruses Info and Prevent.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -139,8 +199,16 @@
 			buildActionMask = 2147483647;
 			files = (
 				96B8DBE22420B62200AB9919 /* ViewController.swift in Sources */,
+				96B6FFAF24218DCF00B31E60 /* AdviceModal.swift in Sources */,
+				96B6FFAD242172DF00B31E60 /* PrecoutingVC.swift in Sources */,
+				96B8DBF52420B7C900AB9919 /* Question.swift in Sources */,
 				96B8DBDE2420B62200AB9919 /* AppDelegate.swift in Sources */,
+				96B8DBF72420B8B900AB9919 /* TestBrain.swift in Sources */,
+				96B6FFB42423619000B31E60 /* PersistenceVC.swift in Sources */,
+				96B8DBF92420D07000AB9919 /* WorldSituationVC.swift in Sources */,
+				96B8DBFD242102F800AB9919 /* TestResultVC.swift in Sources */,
 				96B8DBE02420B62200AB9919 /* SceneDelegate.swift in Sources */,
+				96B8DBFB2420D72400AB9919 /* TestVC.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -285,13 +353,15 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = VYA562XNS5;
 				INFOPLIST_FILE = "Corona Test App/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "co.BekirDuran.Corona-Test-App";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_BUNDLE_IDENTIFIER = co.ByosGameVirusesInfoPrevent;
+				PRODUCT_NAME = "Viruses Info and Prevent";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -302,13 +372,15 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = VYA562XNS5;
 				INFOPLIST_FILE = "Corona Test App/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "co.BekirDuran.Corona-Test-App";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_BUNDLE_IDENTIFIER = co.ByosGameVirusesInfoPrevent;
+				PRODUCT_NAME = "Viruses Info and Prevent";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
